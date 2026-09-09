@@ -295,4 +295,4 @@ antes de subir cada uno de los 10 CSV.
 
 **Siguiente paso pendiente:** importar los 10 CSV limpios como tablas de staging desde
 phpMyAdmin y poblar estas 15 tablas con `INSERT INTO ... SELECT DISTINCT ...` en el
-mismo orden de arriba (esto reemplaza la carga que haría un script de Python).
+mismo orden de arriba.
